@@ -530,6 +530,7 @@ awful.rules.rules = {
         class = {
           "Arandr",
           "Blueman-manager",
+          "feh",
           "Gpick",
           "Pavucontrol",
           "Kruler",
