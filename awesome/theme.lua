@@ -16,21 +16,21 @@ local theme = {}
 theme.font          = "JetBrainsMono NF 9"
 
 theme.bg_normal     = "#555a5c"
-theme.bg_focus      = "#bb4b5a"
-theme.bg_urgent     = "#ff0000"
-theme.bg_minimize   = "#444444"
+theme.bg_focus      = "#B52A5B"
+theme.bg_urgent     = "#FF4971"
+theme.bg_minimize   = "#140a1d"
 theme.bg_systray    = theme.bg_normal
 
-theme.fg_normal     = "#d8d0c9"
-theme.fg_focus      = "#d8d0c9"
-theme.fg_urgent     = "#d8d0c9"
-theme.fg_minimize   = "#d8d0c9"
+theme.fg_normal     = "#f1c4e0"
+theme.fg_focus      = "#f1c4e0"
+theme.fg_urgent     = "#f1c4e0"
+theme.fg_minimize   = "#f1c4e0"
 
 theme.useless_gap   = dpi(7)
 theme.border_width  = dpi(1)
-theme.border_normal = "#ebc9ce"
-theme.border_focus  = "#d6939c"
-theme.border_marked = "#c96f7b"
+theme.border_normal = "#8897F4"
+theme.border_focus  = "#bd93f9"
+theme.border_marked = "#8897F4"
 
 -- There are other variable sets
 -- overriding the default one when
