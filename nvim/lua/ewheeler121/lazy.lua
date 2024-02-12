@@ -39,6 +39,7 @@ local plugins = {
     'mbbill/undotree',
     'tpope/vim-fugitive',
     'theprimeagen/vim-be-good',
+    "LunarVim/bigfile.nvim",
     {
     'VonHeikemen/lsp-zero.nvim',
     branch = 'v3.x',

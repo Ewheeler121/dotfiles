@@ -538,6 +538,7 @@ awful.rules.rules = {
           "Ruffle",
           "Sxiv",
           "Tor Browser", -- Needs a fixed window size to avoid fingerprinting by screen size.
+          "Teamviewer",
           "Wpa_gui",
           "veromix",
           "vlc",
